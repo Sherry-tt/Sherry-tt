@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 
 
-#### Reach out to me via: [LinkedIn](https://www.linkedin.com/in/ruitan/)
+#### Reach out to me via:
+[![Linkedin Badge](https://img.shields.io/badge/-ShiweiGe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruitan/)
+[![Gmail Badge](https://img.shields.io/badge/-ajie4095@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruitan@seas.upenn.com)
 
 #### Languages & Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
