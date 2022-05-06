@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 - : 🎓 Penn SCMP class of 2023
 - : ✨ Aspiring Full-stack Software Engineer 
+- : 📚 Course Work: Programming Language, Big Data Analytics, Applied Machine Learning
 
 
 
