@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 
 
-#### Reach out to me via: [![Linkedin Badge](https://img.shields.io/badge/-RuiTan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruitan/)
-[![Gmail Badge](https://img.shields.io/badge/-ruitan@seas.upenn.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruitan@seas.upenn.com)
+#### Reach out to me via: [![Linkedin Badge](https://img.shields.io/badge/-RuiTan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruitan/) [![Gmail Badge](https://img.shields.io/badge/-ruitan@seas.upenn.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruitan@seas.upenn.com)
 
 #### Languages & Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
