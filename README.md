@@ -53,4 +53,6 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/Sherry-tt">
   <img width='100%' src="https://github-readme-stats.vercel.app/api?username=Sherry-tt&show_icons=true&theme=nordl&count_private=true" />
 </a> -->
-![My stars](https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+|![My stars](https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)| <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
