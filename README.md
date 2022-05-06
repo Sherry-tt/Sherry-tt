@@ -50,13 +50,10 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-<!-- <a href="https://github.com/Sherry-tt">
-  <img width='100%' src="https://github-readme-stats.vercel.app/api?username=Sherry-tt&show_icons=true&theme=nordl&count_private=true" />
-</a> -->
 
-<!-- | <a href="https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a> | <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sherry-tt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
- -->
+
 <a href="https://github.com/Sherry-tt">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data" />
 </a>
