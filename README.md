@@ -14,20 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 
+
 <a href="https://github.com/Sherry-tt">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data" />
-</a> -->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+
+
 
 #### Something about me:
 
-- : 🎓 Penn SCMP class of 2023
-- : ✨ Aspiring Full-stack Software Engineer 
-- : 📚 Course Work: Programming Language, Big Data Analytics, Applied Machine Learning
+-  🎓 Penn SCMP class of 2023
+-  ✨ Aspiring Full-stack Software Engineer 
+-  📚 Course Work: Programming Language, Big Data Analytics, Applied Machine Learning
 
 
 
-#### Reach out to me via: [![Linkedin Badge](https://img.shields.io/badge/-RuiTan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruitan/) [![Gmail Badge](https://img.shields.io/badge/-ruitan@seas.upenn.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruitan@seas.upenn.com)
+<!-- #### Reach out to me via: [![Linkedin Badge](https://img.shields.io/badge/-RuiTan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruitan/) [![Gmail Badge](https://img.shields.io/badge/-ruitan@seas.upenn.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruitan@seas.upenn.com) -->
+
+#### Reach out to me via: [LinkedIn](https://www.linkedin.com/in/ruitan/)
 
 #### Languages & Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -48,21 +52,6 @@ Here are some ideas to get you started:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-
-<!-- | <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sherry-tt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- | -->
-
-| <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a> | <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<a href="https://github.com/Sherry-tt">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data" />
-</a>
-
-
-
 
 
 ![My stars](https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
