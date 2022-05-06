@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 <a href="https://github.com/Sherry-tt">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data" />
-</a>
+</a> -->
 
 #### Something about me:
 
@@ -54,12 +54,16 @@ Here are some ideas to get you started:
 <!-- | <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sherry-tt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | -->
 
-| <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff/></a> | <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a> | <a href="https://github.com/Sherry-tt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a href="https://github.com/Sherry-tt">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data" />
 </a>
+
+
+
+
 
 ![My stars](https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
