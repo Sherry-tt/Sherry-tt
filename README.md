@@ -44,3 +44,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+<a href="https://github.com/Sherry-tt">
+  <img width='100%' src="https://github-readme-stats.vercel.app/api?username=Sherry-tt&show_icons=true&theme=radical&count_private=true" />
+</a>
+
