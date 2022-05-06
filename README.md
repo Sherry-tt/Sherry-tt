@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-<a href="https://github.com/Sherry-tt">
+<!-- <a href="https://github.com/Sherry-tt">
   <img width='100%' src="https://github-readme-stats.vercel.app/api?username=Sherry-tt&show_icons=true&theme=nordl&count_private=true" />
-</a>
-
+</a> -->
+![My stars](https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
