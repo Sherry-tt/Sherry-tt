@@ -14,16 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Something about me:
-
-- : 🎓 Penn SCMP class of 2023
-- : ✨ Aspiring Full-stack Software Engineer 
 
 <a href="https://github.com/Sherry-tt">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-tt&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data" />
 </a>
 
-#### Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruitan/)
+#### Something about me:
+
+- : 🎓 Penn SCMP class of 2023
+- : ✨ Aspiring Full-stack Software Engineer 
+
+
+
+#### Reach out to me via: [LinkedIn](https://www.linkedin.com/in/ruitan/)
 
 #### ⚡Languages & Tools::
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
