@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 -  📚 Course Work: Programming Language, Big Data Analytics, Applied Machine Learning
 
 
-
 <!-- #### Reach out to me via: [![Linkedin Badge](https://img.shields.io/badge/-RuiTan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruitan/) [![Gmail Badge](https://img.shields.io/badge/-ruitan@seas.upenn.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruitan@seas.upenn.com) -->
 
 #### Reach out to me via: [LinkedIn](https://www.linkedin.com/in/ruitan/)
@@ -54,7 +53,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-
-
+![My stars](https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
