@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
+<!-- 
 ![My stars](https://github-readme-stats.vercel.app/api?username=Sherry-tt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+ -->
 
